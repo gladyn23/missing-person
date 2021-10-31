@@ -1,0 +1,69 @@
+.NAV_BG_COL{
+    background-color:#F2545B;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.one{
+    background-color: white;
+}
+
+.one a{
+    color: #F2545B !important;
+}
+.two{
+ padding-top: 180px;
+ padding-left: 50px;
+ margin-top: 90px;   
+}
+
+.three{
+    padding-top: 100px;
+}
+.heading{
+    text-align: center;
+}
+.whole{
+    border: 2px grey solid;
+    margin-top: 70px;
+    border-radius: 30px;
+    
+}
+
+.five{
+    padding-left: 180px ;
+}
+.six{
+    padding-left: 180px;
+
+}
+
+.seven{
+    padding-right:180px ;
+    padding-left: 70px;
+}
+.eight{
+    padding-left: px; 
+}
+.wrt1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.joe{
+    width: 200px;
+}
+.dennis{
+    width: 250px;
+}
+
+.ethan{
+    width: 250px;
+}
+
